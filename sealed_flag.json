@@ -1,0 +1,7 @@
+{
+  "scheme": "aes-256-gcm",
+  "domain": "grokked-cipher-v1",
+  "nonce": "7b90228123b6f4f6ad3bd996",
+  "ciphertext": "3924a7964b823cac5de408383c2251c204545540b2a7fac770ce9a3075a003868adbfe9254004d5aa15acef2b8ae",
+  "check": "3b071a47"
+}
